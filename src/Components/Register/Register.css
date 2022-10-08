@@ -1,0 +1,35 @@
+.register {
+    background-image: url('./1.jpg');
+    background-size: cover;
+    font-family: 'Lora', serif;
+
+}
+.apple {
+    background-color: black;
+}
+.apple:hover {
+   background-color: none;
+}
+.social {
+    display: flex;
+}
+.social > * {
+    border-radius: 50%;
+    width:60px;
+    height: 60px;
+    margin-right: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.social > * > * {
+    font-size: 35px;
+}
+.sign {
+    text-decoration: none;
+    color: blue;
+}
+.sign:hover {
+    text-decoration: underline;
+}
