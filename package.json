@@ -23,7 +23,7 @@
     "redux-thunk": "^2.4.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://Ahmadkasem98.github.io/Add-Emails",
+  "homepage": "https://AhmadKasem98.github.io/Add-Emails",
   "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d build",
